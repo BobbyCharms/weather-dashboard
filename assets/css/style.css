@@ -1,0 +1,8 @@
+header {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(.25turn, rgb(255, 255, 255), 10%, rgb(1, 1, 198));
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+    padding: 10px;
+} 
